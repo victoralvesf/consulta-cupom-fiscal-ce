@@ -1,4 +1,4 @@
-### Instalar as dependência
+### Instalar as dependências
 
 ```npm install``` ou ```yarn install```
 
